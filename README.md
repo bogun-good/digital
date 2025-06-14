@@ -1,4 +1,4 @@
-# digital   디지털성폭력예방 퀴즈(4지선다)
+# 디지털성폭력예방 퀴즈(4지선다)
 
 <!DOCTYPE html>
 <html lang="ko">
